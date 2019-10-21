@@ -1,3 +1,1 @@
-# techsmiths
-
-# files related to the techsmiths programme
+# techsmiths projects and files
