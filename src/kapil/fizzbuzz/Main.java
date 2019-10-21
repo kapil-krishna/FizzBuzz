@@ -8,6 +8,7 @@ public class Main {
             int fizz = i % 3;
             int buzz = i % 5;
             int bang = i % 7;
+            String = ""
             if (fizz == 0 && buzz == 0 && bang == 0) {
                 System.out.println("FizzBuzzBang");
             }
